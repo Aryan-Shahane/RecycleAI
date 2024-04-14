@@ -1,0 +1,36 @@
+html {
+  background: whitesmoke;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.start{
+  padding: 10px;
+  font-size: 15px;
+  background-color: black;
+  color: whitesmoke;
+  border: 2px solid black;
+  border-radius: 10px;
+  text-decoration: none;
+}
+
+.start:hover {
+  background-color: inherit;
+  color: black;
+  text-decoration: underline;
+}
+
+.container {
+  padding-top: 25px;
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 20em;
+}
+
+a {
+  color: #31c67f;
+  text-decoration: none;
+}
